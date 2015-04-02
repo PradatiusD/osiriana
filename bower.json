@@ -1,0 +1,23 @@
+{
+  "name": "osiriana",
+  "version": "0.0.0",
+  "homepage": "https://github.com/PradatiusD/osiriana",
+  "authors": [
+    "PradatiusD <danielprada2012@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "8406309": "https://gist.github.com/8406309.git",
+    "bootstrap-sass": "~3.0.2",
+    "bourbon": "~4.0.2",
+    "instafeed.js": "~1.3.2",
+    "angular-tweet-filter": "*"
+  }
+}
